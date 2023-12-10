@@ -772,7 +772,7 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0
   target: {fileID: 3894705801118067032}
-  clientAuthority: 1
+  clientAuthority: 0
   syncPosition: 1
   syncRotation: 1
   syncScale: 0
@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 917bf93d7ceca4ed1a42db49c83f34fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentState: 1
+  _currentState: 0
   _keyboardInput: {fileID: 3152964684955919268}
   _accelerationInput: {fileID: 2397026512739806879}
 --- !u!114 &7212211769496937072
